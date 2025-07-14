@@ -1,15 +1,15 @@
-## 👋 Hi, I'm ghost,
+## 👋 Hi, I'm Antonio,
 
-I'm a SOC Analyst and Cybersecurity Specialist with a focus on blue team operations and ethical hacking.  
-I use Python to automate threat detection and improve security.
+I'm on a path of becoming SOC Analyst and Cybersecurity Specialist with a focus on blue team operations and ethical hacking.  
+Documenting My Cybersecurity Journey
 
 ---
 
-🔧 **Skills**: Python, SOC Analysis, Threat Detection, Blue Team Operations, Ethical Hacking
+🔧 **Skills**: SIEM (Splunk),threat detection & IR
 
 🚀 **Projects**: Automating security tasks, building detection scripts, threat intelligence tools
 
-💡 **Learning**: Always exploring new ways to strengthen security and stay ahead of threats.
+💡 **Learning**: Security+ Expected in August
 
 ---
 
