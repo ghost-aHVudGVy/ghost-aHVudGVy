@@ -13,7 +13,7 @@ Documenting My Cybersecurity Journey
 
 ---
 
-📂 **Check out my [projects](https://github.com/ghost-aHVudGVy)!**  
+📂 **Check out my [Cybersecurity-Labs]!**  
 
 <div align="center">
 
