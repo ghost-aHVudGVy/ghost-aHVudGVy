@@ -4,7 +4,7 @@ I'm an **IT Support professional** with hands-on experience helping users solve 
 
 I enjoy **solving problems, keeping users productive, and learning continuously**. I’m organized, reliable, and have practical experience in **user account management, GPO configuration, printer setups, and remote diagnostics**. I’ve also completed programming courses in **Python, JavaScript, HTML, and CSS through SoftUni**, which strengthened my problem-solving and technical thinking skills.  
 
-I’m currently building my experience in **Help Desk / IT Support roles** while exploring **cybersecurity hands-on labs** to grow professionally.
+I’m currently building my experience in **Help Desk / IT Support roles** while exploring **cybersecurity** to grow professionally.
 
 ---
 
