@@ -33,5 +33,4 @@ Each lab contains **step-by-step documentation with screenshots and explanations
 
 ## GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghost-aHVudGVy&theme=dark&background=000000)](https://git.io/streak-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-aHVudGVy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
