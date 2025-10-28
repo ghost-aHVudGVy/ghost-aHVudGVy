@@ -1,8 +1,8 @@
-I'm an IT Support professional who enjoys helping people solve technical problems and keeping systems running smoothly. I work with Windows, Active Directory, Microsoft 365, remote support tools, and ticketing systems, and I troubleshoot software, hardware, and network issues efficiently.
+I’m an IT Support professional with hands-on experience helping users solve technical problems and keeping systems running smoothly. I’ve worked with Windows, Active Directory, Microsoft 365, remote support tools, and ticketing systems, and I’m confident troubleshooting everything from software and hardware issues to network problems.
 
-I get satisfaction from solving problems, keeping users productive, and learning new skills every day. I have hands-on experience with user account management, GPO configuration, printer setups, and remote diagnostics. On top of that, I completed programming courses in Python, JavaScript, HTML, and CSS through SoftUni, which strengthened my problem-solving and technical thinking.
+I enjoy troubleshooting issues, ensuring users can work smoothly, and resolving problems efficiently. I’m organized, focused, and persistent, with practical experience in user account management, Group Policy configuration, printer setups, and remote diagnostics. I’ve also completed programming courses in Python, JavaScript, HTML, and CSS through SoftUni, which strengthened my problem-solving and technical thinking skills.
 
-Right now, I'm focused on growing my experience in Help Desk / IT Support roles while also exploring cybersecurity to broaden my skillset.
+I’m seeking a Help Desk / IT Support role where I can contribute immediately, bring value to the team, and continue growing as a professional. I’m excited to hit the ground running and help your team succeed.
 
 ---
 
