@@ -21,7 +21,7 @@ Right now, I'm focused on growing my experience in Help Desk / IT Support roles 
 ---
 
 ## Explore My Labs
+Check out my hands-on Help Desk labs, where I walk through real IT Support scenarios step by step with screenshots and clear explanations. I’m also exploring cybersecurity through practical labs on the side.
 - [Help Desk Labs](https://github.com/ghost-aHVudGVy/Help-Desk-Labs)  
 - [Cybersecurity Labs](https://github.com/ghost-aHVudGVy/Cybersecurity-Labs)  
 
-Each lab contains **step-by-step documentation with screenshots and explanations**.
