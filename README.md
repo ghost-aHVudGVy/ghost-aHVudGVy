@@ -1,10 +1,8 @@
-# Hi, I'm Antonio
+I'm an IT Support professional who enjoys helping people solve technical problems and keeping systems running smoothly. I work with Windows, Active Directory, Microsoft 365, remote support tools, and ticketing systems, and I troubleshoot software, hardware, and network issues efficiently.
 
-I'm an **IT Support professional** with hands-on experience helping users solve technical problems and keeping systems running smoothly. Skilled in **Windows, Active Directory, Microsoft 365, remote support tools, and ticketing systems**, I troubleshoot software, hardware, and network issues efficiently.  
+I get satisfaction from solving problems, keeping users productive, and learning new skills every day. I have hands-on experience with user account management, GPO configuration, printer setups, and remote diagnostics. On top of that, I completed programming courses in Python, JavaScript, HTML, and CSS through SoftUni, which strengthened my problem-solving and technical thinking.
 
-I enjoy **solving problems, keeping users productive, and learning continuously**. I’m organized, reliable, and have practical experience in **user account management, GPO configuration, printer setups, and remote diagnostics**. I’ve also completed programming courses in **Python, JavaScript, HTML, and CSS through SoftUni**, which strengthened my problem-solving and technical thinking skills.  
-
-I’m currently building my experience in **Help Desk / IT Support roles** while exploring **cybersecurity** to grow professionally.
+Right now, I'm focused on growing my experience in Help Desk / IT Support roles while also exploring cybersecurity to broaden my skillset.
 
 ---
 
@@ -27,10 +25,3 @@ I’m currently building my experience in **Help Desk / IT Support roles** while
 - [Cybersecurity Labs](https://github.com/ghost-aHVudGVy/Cybersecurity-Labs)  
 
 Each lab contains **step-by-step documentation with screenshots and explanations**.
-
----
-<div align="center">
-
-## GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghost-aHVudGVy&theme=dark&background=000000)](https://git.io/streak-stats)  
-</div>
